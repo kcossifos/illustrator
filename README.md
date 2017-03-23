@@ -1,4 +1,4 @@
-# Portfolio
+# Illustrator Projects
 
 # About  
 A representation of my illustrator designs that include mobile wireframes, desktop wireframes, redesigns, and custom symbols. In addition, it includes a guide with step by step instructions to output a certain design.
